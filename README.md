@@ -5,3 +5,5 @@
 2, arabic <-> roman
 
 3, matrix: transpose: zip()
+
+4, regular experssion
